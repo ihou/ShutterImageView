@@ -1,4 +1,5 @@
 ShutterImageView
 ================
 
-1.CircleImageView  2.ShutterAnimation
+1.make the ImageView circle   2.create a Shutter Animation
+
