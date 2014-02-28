@@ -151,7 +151,6 @@ public class ShutterImageView extends ImageView {
         canvas.drawBitmap(bmp, null, rect, paint);
         imagePaint.setXfermode(null);
         canvas.restoreToCount(sc);
-        bmp.recycle();
         return output;
 
     }
